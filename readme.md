@@ -1,9 +1,7 @@
-# Hello
-## This is my Brain extension
+# Appunti per Desire Driven 🐽
+## Progetto con la Claudia
 
-Foam is a fantastic tool, a great extension of the brain.
-
-
+Fatto con Foam
 
   ## Guide:
   - ` Quotes

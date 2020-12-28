@@ -1,6 +1,7 @@
 # Oikonima
 
-Significa amministrazione dell'*oikos*, della casa e generalmente *management*
+Significa amministrazione dell'*oikos*, della casa e generalmente *management*.
+Il governo divino del mondo
 
 **Aristotele** > è una èrassi, un'attività pratica che deve far fronte ad un problema in una situazione particolare
 
