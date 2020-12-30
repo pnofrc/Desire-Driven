@@ -3,6 +3,8 @@
 
 [[esseri viventi]] + [[dispositivi]] = [[soggetti]]
 
+punto di partenza per [[progetto]]
+
 
 
 
