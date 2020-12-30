@@ -1,5 +1,5 @@
 # Appunti per Desire Driven 🐽
-## Progetto con la Claudia
+## Federico Poni + Claudia Professione
 
 Fatto con Foam
 
