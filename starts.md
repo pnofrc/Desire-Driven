@@ -10,10 +10,10 @@ Quindi il dispositivo dell'[[/agamben/ai]], ovvero ciò che controlla, modella e
 Noi siamo [[desire-driven]], è il [[/agamben/desiderio]] che ci fa "andare avanti". Noi non sappiamo ancora effettivamente come apprendiamo nè che cosa ci facciamo qua: discorsi sempliciotti che tanto non avranno -penso- mai risposta;
 
 Una domandona è: è il desiderio il macro-dispositivo? la miccia che fa scattare il fuoco(corpo) dal legno(carne)?
-E' il desiderio che ci fa corpo?
+E' il desiderio che ci fa corpo? Carne è pura materia / Corpo è un'insieme definito, organizzato e strutturato, che ha una finalità e che ha un'intenzionalità. È un insieme di coscienza. Il desiderio è in tutto il corpo, fa parte del corpo, è quello che lo tiene in vita, è qualcosa di intrinseco. Il desiderio è qualcosa che non si raggiunge mai, è uno stimolo, è una spinta alla vita. Il desiderio permea di sè su tutto il corpo. Quindi sì, il desiderio è quello che stabilisce delle disposizioni che mi aiutano a raggiungere il mio obiettivo.
 
 E quindi, qual è il desiderio di una AI?
-E' svilupparsi in autonomia? Senza dati umani? Da dove prenderebbe i dati visto che una AI è data-driven?
+E' svilupparsi in autonomia? Senza dati umani? Da dove prenderebbe i dati visto che una AI è data-driven? Asimov docet
 
 
 
