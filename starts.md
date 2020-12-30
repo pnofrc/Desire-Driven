@@ -9,7 +9,7 @@ Quindi il dispositivo dell'[[/agamben/ai]], ovvero ciò che controlla, modella e
 
 Noi siamo [[desire-driven]], è il [[/agamben/desiderio]] che ci fa "andare avanti". Noi non sappiamo ancora effettivamente come apprendiamo nè che cosa ci facciamo qua: discorsi sempliciotti che tanto non avranno -penso- mai risposta;
 
-Una domandona è: è il desiderio il macro-dispositivo? la miccia che fa scattare il fuoco(il corpo) dal legno(la carne)
+Una domandona è: è il desiderio il macro-dispositivo? la miccia che fa scattare il fuoco(corpo) dal legno(carne)?
 E' il desiderio che ci fa corpo?
 
 E quindi, qual è il desiderio di una AI?
