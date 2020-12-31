@@ -8,5 +8,8 @@
 
  Mi immagino anche un ambiente ovattato, in questo periodo penso molto al pluriball come materiale; un posto sicuro per parlare di desiderio
  * Hai immaginato una struttura in pluriball? Potrebbe starci un posto angusto?
+ * mi immagino una sorta di confessatoio
+ * un confessatoio per ogni assistente vocale?
+ * 
 
  
